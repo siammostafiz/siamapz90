@@ -1,0 +1,249 @@
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: left;
+    margin:8px;
+    
+    
+}
+.banner-section .sub-title{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    margin:2px;
+}
+.front{
+    color:orange;
+}
+
+.banner-section .primary-btn{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1193px;
+    top: 570px;
+    border:1px solid;
+    padding:15px;
+    border-radius:8px;
+    font-size:16px;
+}
+.banner{
+    background-color:#312b27;
+    background-image: url(../images/banner/banner1.png);
+        position:absolute;
+        width: 1600px;
+        height: 809px;
+        left:0px;
+        top: 0px;
+
+}
+
+.Secondary-section{
+    
+    margin:0 auto;
+    background-color:#f3f6f991;
+    height: 600px;
+    width: 1072px;
+    left: 299px;
+    top: 300px;
+    border-radius: 0px;
+}
+
+.title{
+    font-size: 44px;
+    text-align: center;
+    padding: 23px;
+}
+.Peragraph{
+    font-size: 25px;
+    width:400px;
+    Margin-left:470px;
+    
+ }
+.conclusion{
+    text-align: left;
+    margin-left:470px;
+    margin-top: 1px;
+    
+}
+
+.skill-container{
+Width:1600px;
+height: 250px;
+background-color: rgb(167, 175, 182);
+padding-bottom: 10px;
+
+}
+h2{
+    text-align: center;
+    font-weight:34px;
+    padding: 12px;
+}
+
+.skills-container{
+    justify-content: space-between;
+
+}
+.skill-title{
+    font-weight: 700;
+    font-size:20px;
+    margin-top:30px;
+    margin-bottom:4px;
+    text-align:left;
+    bottom: 24px;
+
+    
+    
+}
+.skill-description{
+    color:#073e40;
+    text-align: center;
+    font-size: 19px;
+    Margin-bottom:17px;
+    text-align: left;
+    
+}
+.skill{
+    
+    box-shadow: 0px 3px 20px rgba(196, 153, 153, 0.06);
+    border-radius:3px;
+    padding-left:33px;
+    justify-content: space-between;
+    display:inline-block;
+    margin:10px;
+    width:300px;
+    height: 300px;
+    margin-bottom: 34px;
+}
+.images{
+    width: 1600px;
+    height: 700px;
+}
+
+.Roadmap{
+    
+ 
+    margin:0 auto;
+    background-color:#f3f6f991;
+    height: 200px;
+    width: 1072px;
+    left: 140px;
+    top: 300px;
+    border-radius: 0px;
+    Margin-top:38px;
+    background-image: url(../images/gradient1.png),url(../images/watch.png);
+    
+}
+
+.Intro{
+    font-size:35px;
+    color:whitesmoke;
+    margin-right: 13px;
+    margin:23px;
+    top:56px;
+}
+
+.btn-secondary{
+    Color:#1874d6;
+    border-radius:4px;
+    border:1px solid black;
+    background-color:white;
+    font-weight:250;
+    font-size:22px;
+    padding:13px 12px;
+    right:300px;
+    text-align:left;
+    margin-left: 60px;
+    margin-top: 23px;
+}
+.my-motivation{
+    width:1400px;
+    height:300px;
+    text-align: left;
+    Margin:3px;
+    background-color:aliceblue;
+    margin-bottom: 3px;
+    padding:12px;
+    color:Gray;
+}
+.answer{
+    font-size: 22px;
+    color:chocolate;
+    font-weight: 12px;
+}
+.thank{
+    font-size:22px;
+    Color:rgb(62, 59, 53);
+}
+
+.last-section{
+
+width:1200;
+height:120;
+background-color: rgb(141, 124, 124);
+}
+.subs{
+    font-size:33px;
+    right:500;
+    top:300px;
+    margin-left: 600px;
+}
+
+.btn-second{
+    margin-left:12px;
+    color:#ffffff;
+    height:60px;
+    border-radius:4px;
+    background-color:rgb(70, 55, 55);
+    font-weight: 700;
+    font-size:20px;
+    padding:18px 35px;
+   Margin-bottom:100px;
+   margin-bottom:13px;
+}
+
+
+.col{
+    padding-bottom:15px;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    border-bottom:1px solid #ccc;
+    margin-bottom:50px;
+}
+
+form{
+    margin: 12px;
+    margin-top: 100px;
+}
+h1{
+  Padding:10px;
+
+}
+
+.prg{
+    padding: 9px;
+    font-size: 18px;
+    width:fit-content;
+}
+.email{
+    font-size:23px;
+    padding: 13px;
+}
